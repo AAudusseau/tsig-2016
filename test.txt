@@ -6,4 +6,8 @@ hello from clemousse ! Hanane, donne ton surnom !
 
 Oups, j'ai oublié de donner mon surnom, qu'est ce que tu me proposes? :p
 
+<<<<<<< HEAD
 nanette ? :)
+=======
+On se calme les enfants là 
+>>>>>>> niniss
